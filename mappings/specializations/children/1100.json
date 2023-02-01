@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/specializations/1100/children"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "specializations/children/1100.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
