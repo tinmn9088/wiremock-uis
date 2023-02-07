@@ -3,12 +3,14 @@
 		"id": 1056,
 		"name": "Специальность А1(a)",
 		"shortName": "СА1(a)",
-		"cipher": "C1056"
+		"cipher": "C1056",
+		"hasChildren": false
 	},
 	{
 		"id": 1058,
 		"name": "Специальность A1(б)",
 		"shortName": "СА(б)",
-		"cipher": "C1058"
-	},
+		"cipher": "C1058",
+		"hasChildren": false
+	}
 ]

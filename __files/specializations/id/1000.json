@@ -2,5 +2,6 @@
 	"id": 1000,
 	"name": "Специальность А",
 	"shortName": "СА",
-	"cipher": "C1000"
+	"cipher": "C1000",
+	"hasChildren": true
 }
