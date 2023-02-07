@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/specializations/1011"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "specializations/id/1011.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
