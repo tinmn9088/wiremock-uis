@@ -3,5 +3,6 @@
 	"name": "Специальность A1(б)",
 	"shortName": "СА(б)",
 	"cipher": "C1058",
-	"hasChildren": false
+	"hasChildren": false,
+	"parent": 1011
 }
