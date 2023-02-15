@@ -2,7 +2,7 @@
   "priority": 10,
   "request": {
     "method": "GET",
-    "urlPathPattern": "/specializations/(.*)/children"
+    "urlPathPattern": "/api/specializations/(.*)/children"
   },
   "response": {
     "status": 200,

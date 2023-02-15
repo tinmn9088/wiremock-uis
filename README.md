@@ -6,14 +6,14 @@ Run `docker run -it --rm -p 8080:8080 --name wiremock -v $PWD:/home/wiremock wir
 
 ## Mappings
 
-- `/disciplines`
-- `/disciplines/{id}`
-- `/disciplines/search?q=`
+- `/api/disciplines`
+- `/api/disciplines/{id}`
+- `/api/disciplines/search?q=`
 
-- `/specializations/parents`
-- `/specializations/{id}`
-- `/specializations/{id}/children`
-- `/specializations/search?q=`
+- `/api/specializations/parents`
+- `/api/specializations/{id}`
+- `/api/specializations/{id}/children`
+- `/api/specializations/search?q=`
 
 ## Data
 

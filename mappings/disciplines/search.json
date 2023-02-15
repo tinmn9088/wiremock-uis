@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPathPattern": "/disciplines/search",
+    "urlPathPattern": "/api/disciplines/search",
     "queryParameters": {
       "q": {
         "matches": ".*"

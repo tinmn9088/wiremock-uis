@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/disciplines/1200"
+    "url": "/api/disciplines/1200"
   },
   "response": {
     "status": 200,

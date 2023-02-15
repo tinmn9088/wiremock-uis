@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/specializations/1100/children"
+    "url": "/api/specializations/1100/children"
   },
   "response": {
     "status": 200,
