@@ -1,7 +1,29 @@
 {
   "request": {
     "method": "GET",
-    "url": "/api/specializations/parents"
+    "urlPath": "/api/specializations/parents",
+    "queryParameters" : {
+      "size": {
+        "or": [
+          {
+            "matches": "[0-9]+"
+          },
+          {
+            "absent": true
+          }
+        ]
+      },
+      "page": {
+        "or": [
+          {
+            "matches": "[0-9]+"
+          },
+          {
+            "absent": true
+          }
+        ]
+      }
+    }
   },
   "response": {
     "status": 200,

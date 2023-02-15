@@ -1,10 +1,27 @@
 {
   "request": {
     "method": "GET",
-    "urlPathPattern": "/api/specializations/search",
-    "queryParameters": {
-      "q": {
-        "matches": ".*"
+    "urlPath": "/api/specializations/search",
+    "queryParameters" : {
+      "size": {
+        "or": [
+          {
+            "matches": "[0-9]+"
+          },
+          {
+            "absent": true
+          }
+        ]
+      },
+      "page": {
+        "or": [
+          {
+            "matches": "[0-9]+"
+          },
+          {
+            "absent": true
+          }
+        ]
       }
     }
   },

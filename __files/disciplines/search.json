@@ -1,14 +1,17 @@
-[
-  {
-    "id": 1000,
-    "name": "Дисциплина А",
-    "shortName": "ДА",
-    "categories": [1000, 1100]
-  },
-  {
-    "id": 1200,
-    "name": "Дисциплина С",
-    "shortName": "ДС",
-    "categories": [1000, 1200]
-  }
-]
+{
+  "content": [
+    {
+      "id": 1000,
+      "name": "Дисциплина А",
+      "shortName": "ДА",
+      "categories": [1000, 1100]
+    },
+    {
+      "id": 1200,
+      "name": "Дисциплина С",
+      "shortName": "ДС",
+      "categories": [1000, 1200]
+    }
+  ],
+  "totalElements": 2
+}
