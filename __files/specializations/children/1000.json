@@ -1,16 +1,16 @@
 [
-	{
-		"id": 1011,
-		"name": "Специальность А1",
-		"shortName": "СА1",
-		"cipher": "C1011",
-		"hasChildren": true
-	},
-	{
-		"id": 1012,
-		"name": "Специальность А2",
-		"shortName": "СА2",
-		"cipher": "C1012",
-		"hasChildren": false
-	}
+  {
+    "id": 1011,
+    "name": "Специальность А1",
+    "shortName": "СА1",
+    "cipher": "C1011",
+    "hasChildren": true
+  },
+  {
+    "id": 1012,
+    "name": "Специальность А2",
+    "shortName": "СА2",
+    "cipher": "C1012",
+    "hasChildren": false
+  }
 ]

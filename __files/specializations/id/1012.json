@@ -1,8 +1,8 @@
 {
-	"id": 1012,
-	"name": "Специальность А2",
-	"shortName": "СА2",
-	"cipher": "C1012",
-	"hasChildren": false,
-	"parent": 1000
+  "id": 1012,
+  "name": "Специальность А2",
+  "shortName": "СА2",
+  "cipher": "C1012",
+  "hasChildren": false,
+  "parent": 1000
 }

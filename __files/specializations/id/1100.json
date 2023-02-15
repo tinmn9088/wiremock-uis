@@ -1,7 +1,7 @@
 {
-	"id": 1100,
-	"name": "Специальность Б",
-	"shortName": "СБ",
-	"cipher": "C1100",
-	"hasChildren": true
+  "id": 1100,
+  "name": "Специальность Б",
+  "shortName": "СБ",
+  "cipher": "C1100",
+  "hasChildren": true
 }

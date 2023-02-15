@@ -1,8 +1,8 @@
 {
-	"id": 1056,
-	"name": "Специальность А1(a)",
-	"shortName": "СА1(a)",
-	"cipher": "C1056",
-	"hasChildren": false,
-	"parent": 1011
+  "id": 1056,
+  "name": "Специальность А1(a)",
+  "shortName": "СА1(a)",
+  "cipher": "C1056",
+  "hasChildren": false,
+  "parent": 1011
 }

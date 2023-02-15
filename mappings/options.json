@@ -1,16 +1,16 @@
 {
   "priority": 10,
   "request": {
-      "method": "OPTIONS",
-      "urlPathPattern": ".*"
+    "method": "OPTIONS",
+    "urlPathPattern": ".*"
   },
   "response": {
-      "status": 200,
-      "headers": {
-          "Content-Type": "application/json",
-          "Access-Control-Allow-Origin" : "*",
-          "Access-Control-Allow-Methods" : "*",
-          "Access-Control-Allow-Headers" : "*"
-      }
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "*",
+      "Access-Control-Allow-Headers": "*"
+    }
   }
 }
