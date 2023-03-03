@@ -1,0 +1,37 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/api/users/search",
+    "queryParameters" : {
+      "size": {
+        "or": [
+          {
+            "matches": "[0-9]+"
+          },
+          {
+            "absent": true
+          }
+        ]
+      },
+      "page": {
+        "or": [
+          {
+            "matches": "[0-9]+"
+          },
+          {
+            "absent": true
+          }
+        ]
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "user/search.json",
+    "headers": {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "*"
+    }
+  }
+}

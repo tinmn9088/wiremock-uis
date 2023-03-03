@@ -15,6 +15,10 @@ Run `docker run -it --rm -p 8080:8080 --name wiremock -v $PWD:/home/wiremock wir
 - `/api/specializations/{id}/children`
 - `/api/specializations/search?q=`
 
+- `/api/auth/login`
+
+- `/api/users/search?q=`
+
 ## Data
 
 ### Disciplines
@@ -32,3 +36,9 @@ Run `docker run -it --rm -p 8080:8080 --name wiremock -v $PWD:/home/wiremock wir
   - id: `1012`
 - id: `1100`
 - id: `1200`
+
+### Users
+
+- id: `1000`
+- id: `1001`
+- id: `1002`

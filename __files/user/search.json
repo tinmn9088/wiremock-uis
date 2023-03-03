@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "id": 1000,
+      "username": "Admin",
+      "roles": ["admin"]
+    },
+    {
+      "id": 1001,
+      "username": "User1",
+      "roles": ["user"]
+    },
+    {
+      "id": 1002,
+      "username": "User2",
+      "roles": ["user"]
+    }
+  ],
+  "totalElements": 3
+}
